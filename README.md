@@ -84,7 +84,7 @@ Clone the repository and catkin_make:
 
 ```bash
     cd ~/catkin_ws/src  # cd into a catkin workspace folder
-    git clone https://github.com/JasonY85/FAST_LIO.git
+    git clone https://github.com/JasonY85/FAST_LIO.git -b noetic
     cd ..
     catkin_make
     source devel/setup.bash
